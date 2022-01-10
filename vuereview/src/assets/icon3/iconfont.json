@@ -1,0 +1,58 @@
+{
+  "id": "2970999",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "hhtx",
+  "description": "评审",
+  "glyphs": [
+    {
+      "icon_id": "11641887",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "16080009",
+      "name": "用户管理",
+      "font_class": "yonghuguanli1",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    },
+    {
+      "icon_id": "679805",
+      "name": "自由安排",
+      "font_class": "anpai",
+      "unicode": "e6ec",
+      "unicode_decimal": 59116
+    },
+    {
+      "icon_id": "3703056",
+      "name": "投票",
+      "font_class": "toupiao",
+      "unicode": "e66d",
+      "unicode_decimal": 58989
+    },
+    {
+      "icon_id": "8084565",
+      "name": "评审/评价",
+      "font_class": "pingshen",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "201556",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "902030",
+      "name": "查看",
+      "font_class": "chakan1",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    }
+  ]
+}
